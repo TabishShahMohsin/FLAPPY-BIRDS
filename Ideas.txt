@@ -1,4 +1,5 @@
 1) storing of data
-2) sorting the highscores and using binary search to get them and abstract from them
-3) trying to create animations in python
-4) finding a way to continously ask for an input and returning of blankx
+2) sorting the high scores and using binary search to get them and abstract from them
+3) trying to create animations in python using pygame.
+4) Making a fully functional version of this game.
+5) Making a full fledged user-interface using pygame.
